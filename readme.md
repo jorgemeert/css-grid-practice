@@ -4,7 +4,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[![Deploy with Vercel](https://raw.githubusercontent.com/borekb/vercel-deploy-button/master/button.svg)](https://css-grid-practice-seven.vercel.app/)
+
 
 Este é um projeto prático desenvolvido para consolidar conhecimentos em **CSS Grid Layout**. O objetivo foi criar uma interface de vitrine de produtos (e-commerce) que seja organizada, visualmente limpa e estruturada de forma semântica.
 
@@ -34,3 +34,4 @@ O projeto consiste em uma grade de produtos onde cada item contém:
 1. Faça o clone do repositório:
    ```bash
    git clone [https://github.com/jorgemeert/css-grid-practice.git](https://github.com/jorgemeert/css-grid-practice.git)
+
